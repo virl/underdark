@@ -1,6 +1,6 @@
 # Underdark peer-to-peer networking library
 
-Features: http://underdark.io
+Library features: http://underdark.io
 
-Android: https://github.com/virl/underdark-ios
+iOS: https://github.com/virl/underdark-ios
 Android: https://github.com/virl/underdark-android
