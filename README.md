@@ -1,4 +1,4 @@
-# Underdark mobile peer-to-peer mesh networking library.
+# Underdark peer-to-peer networking library
 
 Features: http://underdark.io
 
