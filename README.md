@@ -1,4 +1,4 @@
-# Underdark peer-to-peer networking library
+# Underdark repositories for iOS and Android
 
 Library features: http://underdark.io
 
